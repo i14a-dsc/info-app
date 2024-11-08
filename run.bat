@@ -2,6 +2,6 @@
 :a
 setlocal
 pushd %~dp0
-node .
+node . -A
 endlocal
 goto a
