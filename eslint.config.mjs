@@ -38,7 +38,7 @@ export default [
       'max-nested-callbacks': [
         'error',
         {
-          max: 2,
+          max: 3,
         },
       ],
 
